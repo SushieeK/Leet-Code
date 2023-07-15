@@ -1,13 +1,17 @@
-       
-class Solution:
-  def longestPalindrome(self, s: str) -> int:
-    ans = 0
-    count = collections.Counter(s)
-
-    for c in count.values():
-      ans += c if c % 2 == 0 else c - 1
-
-    hasOddCount = any(c % 2 == 1 for c in count.values())
-
-    return ans + hasOddCount        
+class Solution(object):
+    def longestPalindrome(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+        freqs = [0] * 128
         
+        for c in s:
+            freqs[ord(c)] += 1
+        
+        ans, odd = 0, 0
+        for freq in freqs:
+            ans += freq & (~1)
+            odd |= freq & 1
+        
+        return ans + odd
