@@ -16,4 +16,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SushieeK/Leet-Code/tree/master/1071-greatest-common-divisor-of-strings) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SushieeK/Leet-Code/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SushieeK/Leet-Code/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
