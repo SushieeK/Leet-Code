@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SushieeK/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SushieeK/Leet-Code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/SushieeK/Leet-Code/tree/master/1768-merge-strings-alternately) |
 ## Math
@@ -20,8 +21,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SushieeK/Leet-Code/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/SushieeK/Leet-Code/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SushieeK/Leet-Code/tree/master/0001-two-sum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SushieeK/Leet-Code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
