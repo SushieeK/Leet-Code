@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/SushieeK/Leet-Code/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SushieeK/Leet-Code/tree/master/0014-longest-common-prefix) |
+| [0162-find-peak-element](https://github.com/SushieeK/Leet-Code/tree/master/0162-find-peak-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +31,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SushieeK/Leet-Code/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/SushieeK/Leet-Code/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
