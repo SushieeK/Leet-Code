@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/SushieeK/Leet-Code/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SushieeK/Leet-Code/tree/master/0014-longest-common-prefix) |
+| [0053-maximum-subarray](https://github.com/SushieeK/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SushieeK/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/SushieeK/Leet-Code/tree/master/0162-find-peak-element) |
 ## Hash Table
@@ -44,5 +45,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SushieeK/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SushieeK/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/SushieeK/Leet-Code/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
