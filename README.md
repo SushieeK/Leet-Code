@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SushieeK/Leet-Code/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/SushieeK/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/SushieeK/Leet-Code/tree/master/0242-valid-anagram) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SushieeK/Leet-Code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/SushieeK/Leet-Code/tree/master/1768-merge-strings-alternately) |
@@ -72,4 +73,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SushieeK/Leet-Code/tree/master/0219-contains-duplicate-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SushieeK/Leet-Code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
