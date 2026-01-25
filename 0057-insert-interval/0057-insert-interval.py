@@ -3,21 +3,29 @@ class Solution:
         # Append new interval (key change!)
         intervals.append(newInterval)
         
-        # Now EXACT merge logic/variables
+        # If there is zero or one interval, there is nothing to merge - n log n runtime, n - space
         if len(intervals) <= 1:
             return intervals
+
+        # Sort intervals by their start time so potential overlaps are adjacent
+        # Sorting runs in O(n log n) time
+        intervals.sort(key=lambda i: i[0])
         
-        intervals.sort(key=lambda i: i[0])  # Same!
+        # Initialize the output with the first (earliest-starting) interval
+        output = [intervals[0]]
         
-        output = [intervals[0]]  # Same var!
-        
-        for start, end in intervals[1:]:  # Same vars!
-            lastEnd = output[-1][1]  # Same var!
+        # Iterate over the remaining intervals to merge overlaps
+        for start, end in intervals[1:]:
+            lastEnd = output[-1][1]
             
-            if start <= lastEnd:  # Same logic!
-                output[-1][1] = max(lastEnd, end)  # Same!
+             # If the current interval overlaps with the last one in output
+            if start <= lastEnd:
+                # Merge them by extending the end to the maximum of both
+                output[-1][1] = max(lastEnd, end)
+            # If there is no overlap with the last merged interval
             else:
-                output.append([start, end])  # Same!
+                # Add the current interval as a new disjoint interval
+                output.append([start, end])
                 
         return output
 
